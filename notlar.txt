@@ -1,8 +1,5 @@
 
 emir,55.0,90.0,,BB
-irem,60.0,100.0,,BA
 ugur,60.0,45.0,90,BB
-berna,60.0,100.0,,BA
-nagihan,55.0,45.0,90,BB
 ali,30.0,25.0,85,CB
 can ugur,10.0,5.0,100,CB
